@@ -1,0 +1,42 @@
+#leftdiv {
+    height: 100%;
+    width: 35%;
+}
+
+#rightdiv {
+    height: 100%;
+    width: 65%;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    line-height: 5px;
+}
+
+label {
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: rgb(146, 6, 6);
+}
+
+th {
+    color: rgb(4, 119, 4);
+}
+
+textarea {
+    width: 115%;
+}
+
+button {
+    width: 35%;
+}
+
+button:hover {
+    background-color: cornflowerblue;
+    color: darkblue;
+}
